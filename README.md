@@ -2,7 +2,7 @@
 
 # O que foi feito?
 
-``
+```
 a) Criar uma aplicação Front-end utilizando preferencialmente Angular na
 versão mais recente ou Vue.JS.
 
@@ -16,9 +16,7 @@ e) A aplicação deverá ter um controle de login por usuário e senha e os
 endpoints devem autenticar através de token JWT
 
 g) Documentar a API usando o Swagger (https://swagger.io).
-
-
-``
+```
 
 ## Project setup
 ```
